@@ -1,0 +1,4 @@
+#include <stdio.h>
+int main() {
+    printf("Sum: %d\n", 10 + 20);
+}
